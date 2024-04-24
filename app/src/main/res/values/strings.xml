@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NETFLIX HOMESCREEN</string>
+    <string name="title">Title</string>
+    <string name="my_list">My List</string>
+    <string name="play">Play</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="info">Info</string>
+</resources>
